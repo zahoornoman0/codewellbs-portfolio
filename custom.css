@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+a {
+    font-family: 'Prata', serif;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: #F8F9FA;
+}
+
+#site-name a {
+    font-family: 'Prata', serif;
+}
+.nav-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
